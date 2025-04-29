@@ -41,7 +41,7 @@ Download apk - https://drive.google.com/file/d/1ND6bVOeYheTLN19f6EMqhVEY8JlVIEhq
 
 Run the following commands from your terminal:
 
-1) `https://github.com/tejasbadone/budgeto.git` to clone this repository
+1) `https://github.com/Prahlad-07/Budgeit_App.git` to clone this repository
 
 2) `flutter pub get` in the project root directory to install all the required dependencies.
 
